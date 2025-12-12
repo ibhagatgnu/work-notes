@@ -1,0 +1,250 @@
+## Analyzing Directory: /usr/bin/
+
+### Results for File: **qemu-mips64-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005faa9f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-nios2-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000569c6f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **passt.avx2**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000000f670:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-mips64el-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005f8b3f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping ctest (objdump timed out).
+### Results for File: **qemu-ppc64-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000006139af:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-cris-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005791af:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-alpha-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000057157f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-or1k-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000057075f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping llvm-exegesis (objdump timed out).
+### Results for File: **qemu-mipsn32-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005fc27f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-arm-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000061a82f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping cmake3 (objdump timed out).
+### Results for File: **qemu-mips-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005fc16f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-i386-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005cecff:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping ld.mold (objdump timed out).
+WARNING: Skipping cmake (objdump timed out).
+### Results for File: **qemu-sparc32plus-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000058116f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping cpack3 (objdump timed out).
+### Results for File: **darktable-rs-identify**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000053020:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-xtensaeb-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000061252f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-sparc-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000577cef:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-mipsn32el-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005fa18f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-aarch64_be-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000007332df:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **ld.so**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000000223af:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-mipsel-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005fa03f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-aarch64-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000073131f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-ppc-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000607f5f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-m68k-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000058e90f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-sparc64-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000057f8df:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-ppc64le-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000611a4f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-armeb-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000061cc5f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping cpack (objdump timed out).
+WARNING: Skipping ctest3 (objdump timed out).
+### Results for File: **qemu-xtensa-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000061325f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-sh4eb-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000057910f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-microblazeel-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005758df:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-x86_64-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005cc5ef:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-microblaze-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005778ff:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-riscv64-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005fccff:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-sh4-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000057737f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-loongarch64-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005a519f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-hppa-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000057d80f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping mold (objdump timed out).
+### Results for File: **qemu-riscv32-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005f215f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-s390x-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000005a04af:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **pasta.avx2**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000000f670:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **qemu-hexagon-static**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000006a40af:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping lto-dump (objdump timed out).
+
+## Analysis Complete.
+**Total files analyzed successfully**: 1878
+**Total files with non-.plt 'exp' CFA rules**: 39

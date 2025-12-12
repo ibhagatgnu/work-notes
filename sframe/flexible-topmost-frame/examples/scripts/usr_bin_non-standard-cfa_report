@@ -1,0 +1,1502 @@
+## Analyzing Directory: /usr/bin/
+
+### Results for File: **gcov**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000c7a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000c810:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000c854:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000c8b8:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **qemu-mips64-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00048384:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000483f0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048434:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048498:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00053b90:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00053be0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000560c8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00057128:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0005715c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00057190:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000571c4:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000571e8:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0005720c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-nios2-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0003878c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000387f8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003883c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000388a0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00043e30:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00043e80:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00046368:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000473c8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000473fc:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00047430:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00047464:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00047488:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000474ac:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **cc**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **passt.avx2**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x000007b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000146c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-mips64el-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00048144:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000481b0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000481f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048258:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00053950:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000539a0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00055e88:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00056ee8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056f1c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056f50:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056f84:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00056fa8:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00056fcc:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **x86_64-redhat-linux-gcc-13**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+WARNING: Skipping ctest (objdump timed out).
+### Results for File: **qemu-ppc64-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00056214:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00056280:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000562c4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00056328:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00061a20:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00061a70:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00063f58:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00064fb8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00064fec:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00065020:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00065054:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00065078:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0006509c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **has160-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-cris-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x000399f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039a60:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039aa4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039b08:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00045218:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00045268:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00047750:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000487b0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000487e4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00048818:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004884c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048870:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048894:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-alpha-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00039374:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000393e0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039424:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039488:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00044b28:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00044b78:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00047060:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000480c0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000480f4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00048128:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004815c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048180:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000481a4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-or1k-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00038a4c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00038ab8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00038afc:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00038b60:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000440f0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00044140:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00046628:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00047688:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000476bc:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000476f0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00047724:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00047748:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0004776c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+WARNING: Skipping llvm-exegesis (objdump timed out).
+### Results for File: **qemu-mipsn32-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00048474:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000484e0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048524:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048588:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00053c80:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00053cd0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000561b8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00057218:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0005724c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00057280:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000572b4:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000572d8:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000572fc:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-arm-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x000564c4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00056530:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00056574:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000565d8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00061d98:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00061de8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000642d0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00065330:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00065364:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00065398:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000653cc:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000653f0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00065414:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+WARNING: Skipping cmake3 (objdump timed out).
+### Results for File: **g++**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **gcc**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **edonr512-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **tth-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-mips-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0004848c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000484f8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0004853c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000485a0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00053d08:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00053d58:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00056240:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000572a0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000572d4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00057308:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0005733c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00057360:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00057384:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-i386-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00048004:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048070:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000480b4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048118:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00053900:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00053950:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00055d88:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00056de8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056e1c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056e50:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056e84:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00056ea8:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00056ecc:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+WARNING: Skipping ld.mold (objdump timed out).
+WARNING: Skipping cmake (objdump timed out).
+### Results for File: **tiger-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **yaml2obj**
+Total FDEs found with custom CFA rules: 40
+
+  FDE at 0x0000b29c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000c4e4:
+    Unique Custom Rules: **r11+65584**
+  FDE at 0x0000c5f4:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000c70c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000c824:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000c93c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000ca54:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000cb6c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000cc84:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000cd9c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000ceb4:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000cfe8:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d11c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d234:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d368:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d49c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d5d0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d704:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d838:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000d950:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000da84:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000db9c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000dcb4:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000ddcc:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000df00:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e018:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e130:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e248:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e360:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e478:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e590:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e6a8:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e7c0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e8d8:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000e9f0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000eb24:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000ec3c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000ed54:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000ee80:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000efb4:
+    Unique Custom Rules: **r11+65592**
+----------------------------------------
+### Results for File: **cpp**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **qemu-sparc32plus-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0003b1d4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003b240:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003b284:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003b2e8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000469f8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00046a48:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00048f30:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00049f90:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00049fc4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00049ff8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004a02c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0004a050:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0004a074:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+WARNING: Skipping cpack3 (objdump timed out).
+### Results for File: **darktable-rs-identify**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00005ab4:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-xtensaeb-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00086fd4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00087040:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00087084:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000870e8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00092788:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000927d8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00094cc0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00095d20:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00095d54:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00095d88:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00095dbc:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00095de0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00095e04:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **llvm-tblgen**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x0001a6f0:
+    Unique Custom Rules: **r11+32824**
+----------------------------------------
+### Results for File: **qemu-sparc-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00039b7c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039be8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039c2c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039c90:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000453a0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000453f0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000478d8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00048938:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004896c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000489a0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000489d4:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000489f8:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048a1c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **x86_64-redhat-linux-gcc**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **x86_64-redhat-linux-g++**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **qemu-mipsn32el-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00048294:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048300:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048344:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000483a8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00053aa0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00053af0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00055fd8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00057038:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0005706c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000570a0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000570d4:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000570f8:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0005711c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **sfv-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-aarch64_be-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00078b54:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00078bc0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00078c04:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00078c68:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000842d0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00084320:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00086808:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00087868:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0008789c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000878d0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00087904:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00087928:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0008794c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **ld.so**
+Total FDEs found with custom CFA rules: 7
+
+  FDE at 0x00001390:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000013c4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000013f8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0000142c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00001450:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00001474:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000027f8:
+    Unique Custom Rules: **rdi+0**
+----------------------------------------
+### Results for File: **qemu-mipsel-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x000482cc:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00048338:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0004837c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000483e0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00053b48:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00053b98:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00056080:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000570e0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00057114:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00057148:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0005717c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000571a0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000571c4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **magnet-link**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-aarch64-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x000789bc:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00078a28:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00078a6c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00078ad0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00084138:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00084188:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00086670:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000876d0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00087704:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00087738:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0008776c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00087790:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000877b4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-ppc-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00054114:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00054180:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000541c4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00054228:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0005f938:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0005f988:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00061e70:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00062ed0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00062f04:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00062f38:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00062f6c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00062f90:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00062fb4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-m68k-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0003c34c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003c3b8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003c3fc:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003c460:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00047ba8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00047bf8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0004a0e0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0004b140:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004b174:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004b1a8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004b1dc:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0004b200:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0004b224:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **edonr256-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **gost12-256-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **llvm-profdata**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x000009f8:
+    Unique Custom Rules: **r11+65592**
+----------------------------------------
+### Results for File: **whirlpool-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-sparc64-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0003aed4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003af40:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003af84:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003afe8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000466d0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00046720:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00048c08:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00049c68:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00049c9c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00049cd0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00049d04:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00049d28:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00049d4c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-ppc64le-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00055fc4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00056030:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00056074:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000560d8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000617d0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00061820:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00063d08:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00064d68:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00064d9c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00064dd0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00064e04:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00064e28:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00064e4c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **gcov-dump**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000ab2c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000ab98:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000abdc:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000ac40:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **c++**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **qemu-armeb-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x000566ac:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00056718:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0005675c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000567c0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00061f80:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00061fd0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000644b8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00065518:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0006554c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00065580:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000655b4:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000655d8:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000655fc:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **gcov-tool**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00006c44:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00006cb0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00006cf4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00006d58:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+WARNING: Skipping cpack (objdump timed out).
+WARNING: Skipping ctest3 (objdump timed out).
+### Results for File: **qemu-xtensa-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00088e94:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00088f00:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00088f44:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00088fa8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00094648:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00094698:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00096b80:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00097be0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00097c14:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00097c48:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00097c7c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00097ca0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00097cc4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-sh4eb-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00039864:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000398d0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039914:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039978:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00045088:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000450d8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000475c0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00048620:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00048654:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00048688:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000486bc:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000486e0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048704:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-microblazeel-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00039524:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039590:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000395d4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039638:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00044d48:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00044d98:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00047280:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000482e0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00048314:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00048348:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004837c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000483a0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000483c4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-x86_64-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0004783c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000478a8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000478ec:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00047950:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000530f0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00053140:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00055578:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000565d8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0005660c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056640:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00056674:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00056698:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000566bc:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-microblaze-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x000396e4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039750:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00039794:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000397f8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00044f08:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00044f58:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00047440:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000484a0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000484d4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00048508:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004853c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048560:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048584:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **gost12-512-hash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-riscv64-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00052b6c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00052bd8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00052c1c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00052c80:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0005e2d8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0005e328:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00060810:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00061870:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000618a4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000618d8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0006190c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00061930:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00061954:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **rhash**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **qemu-sh4-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0003968c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000396f8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003973c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000397a0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00044eb0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00044f00:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000473e8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00048448:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004847c:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000484b0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000484e4:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00048508:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0004852c:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **obj2yaml**
+Total FDEs found with custom CFA rules: 40
+
+  FDE at 0x0001c1e0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001d3c0:
+    Unique Custom Rules: **r11+65584**
+  FDE at 0x0001d4ec:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001d620:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001d754:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001d888:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001d9bc:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001daf0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001dc24:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001dd58:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001de8c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001dfdc:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001e12c:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001e260:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001e3b0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001e500:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001e650:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001e7a0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001e8f0:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001ea24:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001eb74:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001eca8:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001eddc:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001ef10:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f060:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f194:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f2c8:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f3fc:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f530:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f664:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f798:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001f8cc:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001fa00:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001fb34:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001fc68:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001fdb8:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0001feec:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x00020020:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x00020168:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x000202b8:
+    Unique Custom Rules: **r11+65592**
+----------------------------------------
+### Results for File: **qemu-loongarch64-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00041f3c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00041fa8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00041fec:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00042050:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0004d5c8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0004d618:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0004fb00:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00050b60:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00050b94:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00050bc8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00050bfc:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00050c20:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00050c44:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-hppa-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0003a43c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003a4a8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003a4ec:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0003a550:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00045c48:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00045c98:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00048180:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x000491e0:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00049214:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00049248:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0004927c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000492a0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000492c4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+WARNING: Skipping mold (objdump timed out).
+### Results for File: **qemu-riscv32-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x00052254:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000522c0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00052304:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00052368:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0005d968:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0005d9b8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0005fea0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00060f00:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00060f34:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00060f68:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00060f9c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00060fc0:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00060fe4:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **qemu-s390x-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x000432ac:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00043318:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0004335c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000433c0:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0004eaa8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0004eaf8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00050fe0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00052040:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x00052074:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000520a8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000520dc:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00052100:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00052124:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+### Results for File: **pasta.avx2**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x000007b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000146c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **x86_64-redhat-linux-c++**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x0000f4f4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f560:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f5a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0000f608:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **qemu-hexagon-static**
+Total FDEs found with custom CFA rules: 13
+
+  FDE at 0x0007015c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000701c8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0007020c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00070270:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x0007b7e8:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0007b838:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0007dd20:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x0007ed80:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0007edb4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0007ede8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0007ee1c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0007ee40:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x0007ee64:
+    Unique Custom Rules: **rbx+32**
+----------------------------------------
+WARNING: Skipping lto-dump (objdump timed out).
+### Results for File: **ed2k-link**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000648:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+
+## Analysis Complete.
+**Total files analyzed successfully**: 1878
+**Total files with custom CFA rules**: 67

@@ -1,0 +1,3408 @@
+## Analyzing Directory: /usr/lib64/
+
+### Results for File: **libSvtAv1Enc.so.1**
+Total FDEs found with custom CFA rules: 90
+
+  FDE at 0x000044f0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004520:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004550:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004580:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000045b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000045f8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004628:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004658:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004688:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000046b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000046e8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004718:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004760:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000047a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000047e0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004828:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004858:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004888:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000048b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008568:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000086e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008848:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008c28:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00008ea0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000939c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000093cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009408:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009448:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009494:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009854:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009884:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000098c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a484:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000a7b4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000a814:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ac10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000aef0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000af50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b704:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b750:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b7cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b818:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b9a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b9e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000ba2c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000ba74:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000babc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bb04:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bb48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bb90:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bbd8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bc20:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bc68:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bcc4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bd20:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bd7c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bec8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c2d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c31c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000cd70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000da5c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000dbc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000dc0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000111c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00011364:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000139b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017f4c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017f98:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018710:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000189f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018a3c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018d9c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001aa0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001aa58:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001aab8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001ac0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bd70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ca90:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001cb64:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001cc78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d37c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d43c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d834:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d87c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d8c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e358:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e3a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e3e8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e430:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e478:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libbabl-0.1.so.0.207.1**
+Total FDEs found with custom CFA rules: 7
+
+  FDE at 0x00005034:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005148:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053f0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005434:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005480:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005530:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000557c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libmozjs-115.so.0.0.0 (objdump timed out).
+### Results for File: **libaom.so.3**
+Total FDEs found with custom CFA rules: 50
+
+  FDE at 0x00011c10:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00011c84:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00012098:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000126a0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000126fc:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00012868:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000128c4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000129b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000167c4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000167f0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001681c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016848:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016874:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000168a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000168cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000168f8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016928:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016968:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001699c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000169dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016a1c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016a50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016a7c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016aa8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016ad4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017970:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000179a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000179d0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00017a60:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00018614:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00021db0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00023f84:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024b10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00025460:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029a60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029d14:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029d60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029e50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029e9c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002a164:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002a1b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002a22c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0002ad84:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002af28:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0002b08c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0002b124:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002b6cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002c220:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002c864:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002cbb8:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libclang-cpp.so.17 (objdump timed out).
+### Results for File: **libQt5XcbQpa.so.5.15**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x00000638:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00007800:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libpython3.11.so.1.0**
+Total FDEs found with custom CFA rules: 3
+
+  FDE at 0x000016e4:
+    Unique Custom Rules: **r11+16432**
+  FDE at 0x00012c70:
+    Unique Custom Rules: **r11+16432**
+  FDE at 0x0001db78:
+    Unique Custom Rules: **r11+65576**
+----------------------------------------
+WARNING: Skipping libwebkitgtk-6.0.so.4.4.4 (objdump timed out).
+WARNING: Skipping libwebkitgtk-6.0.so.4 (objdump timed out).
+### Results for File: **liblldCOFF.so.17**
+Total FDEs found with custom CFA rules: 3
+
+  FDE at 0x0000b6d8:
+    Unique Custom Rules: **r11+65592**
+  FDE at 0x0000bdd4:
+    Unique Custom Rules: **r11+65560**
+  FDE at 0x0000be10:
+    Unique Custom Rules: **r11+65560**
+----------------------------------------
+### Results for File: **libc.so.6**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00001c90:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00001ce0:
+    Unique Custom Rules: **rdi+0**
+  FDE at 0x00002d44:
+    Unique Custom Rules: **rdx+0**
+  FDE at 0x00017338:
+    Unique Custom Rules: **rdi+0**
+----------------------------------------
+### Results for File: **libavfilter.so.9**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00015c70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018724:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002c6d8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002d46c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libSvtAv1Enc.so.1.4.1**
+Total FDEs found with custom CFA rules: 90
+
+  FDE at 0x000044f0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004520:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004550:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004580:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000045b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000045f8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004628:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004658:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004688:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000046b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000046e8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004718:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004760:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000047a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000047e0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004828:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004858:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004888:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000048b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008568:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000086e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008848:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008c28:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00008ea0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000939c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000093cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009408:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009448:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009494:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009854:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009884:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000098c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a484:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000a7b4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000a814:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ac10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000aef0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000af50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b704:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b750:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b7cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b818:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b9a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b9e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000ba2c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000ba74:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000babc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bb04:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bb48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bb90:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bbd8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bc20:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bc68:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bcc4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bd20:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bd7c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000bec8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c2d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c31c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000cd70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000da5c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000dbc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000dc0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000111c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00011364:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000139b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017f4c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017f98:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018710:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000189f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018a3c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018d9c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001aa0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001aa58:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001aab8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001ac0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bd70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ca90:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001cb64:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0001cc78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d37c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d43c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d834:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d87c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001d8c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e358:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e3a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e3e8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e430:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e478:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libSPIRV-Tools-opt.so (objdump timed out).
+### Results for File: **librhash.so.0**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x00000b64:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libvpx.so.8.0**
+Total FDEs found with custom CFA rules: 5
+
+  FDE at 0x00001c8c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00001db0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00001e54:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00002060:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000e52c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libLLVM-17.so (objdump timed out).
+WARNING: Skipping libQt6Gui.so.6.5.2 (objdump timed out).
+### Results for File: **libmvec.so.1**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00005830:
+    Unique Custom Rules: **r13+32**
+  FDE at 0x000061d8:
+    Unique Custom Rules: **r13+32**
+  FDE at 0x000068c8:
+    Unique Custom Rules: **r13+32**
+  FDE at 0x00007400:
+    Unique Custom Rules: **r13+32**
+----------------------------------------
+### Results for File: **libsoxr.so.0**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x000017b4:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libvpx.so.8.0.0**
+Total FDEs found with custom CFA rules: 5
+
+  FDE at 0x00001c8c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00001db0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00001e54:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00002060:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000e52c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libQt6Core.so.6.5.2**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x000001fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00059498:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libSvtAv1Dec.so.0.8.7**
+Total FDEs found with custom CFA rules: 60
+
+  FDE at 0x000002dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000531c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000534c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000537c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005424:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005454:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005484:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000054b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000054e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005514:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005544:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000558c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000055cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000560c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005654:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005684:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000056b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000056e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008dac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008f88:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000090ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000094f8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000958c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00009bc8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009bf8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009c34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009c74:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009cc0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a030:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a060:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a0a4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000abfc:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000aed4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000af34:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000b334:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b674:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000b6d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bdc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000be10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000be80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000becc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bfe8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c02c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c074:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c0bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c104:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c14c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c190:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c1d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c21c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c264:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c2ac:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c308:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c364:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c3c0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c508:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c8ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c938:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libcrypto.so.3.1.4**
+Total FDEs found with custom CFA rules: 88
+
+  FDE at 0x00000080:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000000ec:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000001c4:
+    Unique Custom Rules: **r15+64, rsi+64**
+  FDE at 0x0004f828:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f86c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f8b0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f8f4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f94c:
+    Unique Custom Rules: **rsi+56**
+  FDE at 0x0004f998:
+    Unique Custom Rules: **rsi+56**
+  FDE at 0x0004fa0c:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fa50:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fa94:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fc64:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fc84:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fca4:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fcc4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fd40:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fdbc:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fe4c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fe98:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fee4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004ff30:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050118:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x0005015c:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x000501b8:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x000501fc:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x00050258:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050298:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050314:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00050330:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050378:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000503c0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050408:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050450:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050578:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000505c4:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050610:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050654:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000506a0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000506ec:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050744:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000507b0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050808:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000509ac:
+    Unique Custom Rules: **rcx+56**
+  FDE at 0x00050a00:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050a48:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a64:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a80:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a9c:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ab8:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ad4:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050af0:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050b0c:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050b28:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ef0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050f38:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050f8c:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00051024:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x0005106c:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x000510c0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x0005154c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051598:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000515d0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00051610:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x000517e0:
+    Unique Custom Rules: **r11+96**
+  FDE at 0x00051890:
+    Unique Custom Rules: **r11+16**
+  FDE at 0x000518ac:
+    Unique Custom Rules: **r11+16**
+  FDE at 0x00051ae0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b10:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b34:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b64:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051ba8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051bfc:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c30:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c64:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c98:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051cc8:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051cec:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051d1c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051d60:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051dbc:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051e00:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051e44:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x00051ee0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051f28:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051f6c:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051fb0:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x00052050:
+    Unique Custom Rules: **rax+8, rsi+8**
+----------------------------------------
+### Results for File: **libgnutls.so.30.37.0**
+Total FDEs found with custom CFA rules: 22
+
+  FDE at 0x0001828c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000182d8:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0001843c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001845c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001847c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001849c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00018518:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00018594:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x000185e8:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00018628:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00018f48:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00018f9c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00018fd0:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00019004:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00019038:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019094:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000190d8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0001911c:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x000191b8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019200:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019244:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019288:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+----------------------------------------
+### Results for File: **libQt6Core.so.6**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x000001fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00059498:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libbluray.so.2**
+Total FDEs found with custom CFA rules: 8
+
+  FDE at 0x00001cec:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00001d44:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00001dc8:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00002068:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x000025cc:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x000033f4:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00003550:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x000041f4:
+    Unique Custom Rules: **r11+32824**
+----------------------------------------
+### Results for File: **libgegl-0.4.so.0**
+Total FDEs found with custom CFA rules: 5
+
+  FDE at 0x0000d430:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000d540:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000d5b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000d778:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000dc04:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libavcodec.so.60**
+Total FDEs found with custom CFA rules: 10
+
+  FDE at 0x000032d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003320:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008f18:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008fbc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009280:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000092cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002143c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00035514:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00047818:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00048a40:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libvamp-sdk.so.2.9.0**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x000018a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001910:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001954:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000019b8:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **libsoxr.so.0.1.2**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x000017b4:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libvamp-hostsdk.so.3**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00004224:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00004290:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000042d4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00004338:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **libmfx-gen.so.1.2.8**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x0003b7f8:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libvamp-hostsdk.so.3.9.0**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00004224:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00004290:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000042d4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00004338:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **libvapoursynth.so.63**
+Total FDEs found with custom CFA rules: 7
+
+  FDE at 0x00001dbc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f8a4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000f900:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000f95c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000f9b8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000fa14:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000fa70:
+    Unique Custom Rules: **r13+0**
+----------------------------------------
+### Results for File: **libjxl.so.0.8.2**
+Total FDEs found with custom CFA rules: 159
+
+  FDE at 0x00000448:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000004bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000508:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000584:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000005cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000618:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000664:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000a58:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000aa0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000aec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000bf8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000c70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000f98:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000100c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00001080:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000010f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002c78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002cf4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002d70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002dec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003d30:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003d78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003dc0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003e08:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004074:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000040bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004104:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000414c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000429c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004748:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000047c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004840:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004884:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000049d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004a50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004ac8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004c14:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004c94:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005bec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005c48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005cb8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005cfc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005d84:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005dc8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005e50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005e94:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006064:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000060b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000060fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000660c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006658:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006fdc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000754c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00007594:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00007688:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000087e0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000088d8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00008970:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00008a68:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000aeec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000af2c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000af6c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bfc0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c16c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c1b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c200:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000ef48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f020:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f06c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f1b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00014174:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00014234:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00014280:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000142cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016c70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016cb8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016d00:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017dd0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017eac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017ef4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017fdc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018028:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018070:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000180ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018138:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018180:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000181fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018248:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000182c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00019708:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001975c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000197b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001980c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a274:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a2c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a308:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a398:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a960:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001aaec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001abc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ac0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ac54:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001aca0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001acec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ad34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b0f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b164:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b1b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b69c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bbcc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bc18:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bc64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001c698:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001c72c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001c7c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001cdd4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e090:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e13c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e1e8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fa34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fa80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fac8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fb10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fb58:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fba0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fc50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fc98:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fce0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fd28:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fd70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fdb8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fe00:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fe48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fe90:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fed8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ff20:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ff68:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00020018:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00020094:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000211ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00021238:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00021284:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000212d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00022548:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00022574:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000225a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000225cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024c88:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024cd0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024d18:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024d60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024da8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024df0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024e38:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024e80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024ec8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002501c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00025064:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000250ac:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libQt6XcbQpa.so.6**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x00001438:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008ba0:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping librbd.so.1.18.0 (objdump timed out).
+### Results for File: **libgcc_s.so.1**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00001a7c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001ae8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001b2c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001b90:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **libFLAC.so.12.1.0**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x00000284:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000002d0:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libcrypto.so.3**
+Total FDEs found with custom CFA rules: 88
+
+  FDE at 0x00000080:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000000ec:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000001c4:
+    Unique Custom Rules: **r15+64, rsi+64**
+  FDE at 0x0004f828:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f86c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f8b0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f8f4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f94c:
+    Unique Custom Rules: **rsi+56**
+  FDE at 0x0004f998:
+    Unique Custom Rules: **rsi+56**
+  FDE at 0x0004fa0c:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fa50:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fa94:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fc64:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fc84:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fca4:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fcc4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fd40:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fdbc:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fe4c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fe98:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fee4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004ff30:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050118:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x0005015c:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x000501b8:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x000501fc:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x00050258:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050298:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050314:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00050330:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050378:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000503c0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050408:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050450:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050578:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000505c4:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050610:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050654:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000506a0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000506ec:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050744:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000507b0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050808:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000509ac:
+    Unique Custom Rules: **rcx+56**
+  FDE at 0x00050a00:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050a48:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a64:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a80:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a9c:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ab8:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ad4:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050af0:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050b0c:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050b28:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ef0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050f38:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050f8c:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00051024:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x0005106c:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x000510c0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x0005154c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051598:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000515d0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00051610:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x000517e0:
+    Unique Custom Rules: **r11+96**
+  FDE at 0x00051890:
+    Unique Custom Rules: **r11+16**
+  FDE at 0x000518ac:
+    Unique Custom Rules: **r11+16**
+  FDE at 0x00051ae0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b10:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b34:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b64:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051ba8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051bfc:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c30:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c64:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c98:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051cc8:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051cec:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051d1c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051d60:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051dbc:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051e00:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051e44:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x00051ee0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051f28:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051f6c:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051fb0:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x00052050:
+    Unique Custom Rules: **rax+8, rsi+8**
+----------------------------------------
+### Results for File: **libgegl-0.4.so.0.447.1**
+Total FDEs found with custom CFA rules: 5
+
+  FDE at 0x0000d430:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000d540:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000d5b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000d778:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000dc04:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libbabl-0.1.so.0**
+Total FDEs found with custom CFA rules: 7
+
+  FDE at 0x00005034:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005148:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053f0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005434:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005480:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005530:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000557c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libQt6XcbQpa.so.6.5.2**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x00001438:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008ba0:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libQt6Qml.so.6 (objdump timed out).
+WARNING: Skipping libgccjit.so.0 (objdump timed out).
+WARNING: Skipping libQt6Qml.so.6.5.2 (objdump timed out).
+WARNING: Skipping libjavascriptcoregtk-4.1.so.0.4.10 (objdump timed out).
+### Results for File: **libgfortran.so.5**
+Total FDEs found with custom CFA rules: 22
+
+  FDE at 0x0000c9f8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ca54:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cbf8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cc58:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cd60:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cdc0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ce20:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cf30:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cf90:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cfec:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d370:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d3d0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d430:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d538:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d598:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d5f8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000dbf8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000dc58:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000dcb8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ddc8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000de28:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000de88:
+    Unique Custom Rules: **r13+0**
+----------------------------------------
+### Results for File: **libvpx.so.8**
+Total FDEs found with custom CFA rules: 5
+
+  FDE at 0x00001c8c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00001db0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00001e54:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00002060:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000e52c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libQt6Widgets.so.6.5.2 (objdump timed out).
+### Results for File: **libvamp-sdk.so.2**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x000018a4:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001910:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001954:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x000019b8:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+WARNING: Skipping libclang.so.17 (objdump timed out).
+### Results for File: **libbluray.so.2.4.3**
+Total FDEs found with custom CFA rules: 8
+
+  FDE at 0x00001cec:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00001d44:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00001dc8:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00002068:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x000025cc:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x000033f4:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x00003550:
+    Unique Custom Rules: **r11+32824**
+  FDE at 0x000041f4:
+    Unique Custom Rules: **r11+32824**
+----------------------------------------
+### Results for File: **libzimg.so.2**
+Total FDEs found with custom CFA rules: 18
+
+  FDE at 0x00004c64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005384:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000541c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005468:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000054b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005500:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000554c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005598:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005828:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005890:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006988:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000073d8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000074c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000088ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000089b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008e64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008f68:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libgnutls.so**
+Total FDEs found with custom CFA rules: 22
+
+  FDE at 0x0001828c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000182d8:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0001843c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001845c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001847c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001849c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00018518:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00018594:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x000185e8:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00018628:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00018f48:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00018f9c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00018fd0:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00019004:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00019038:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019094:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000190d8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0001911c:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x000191b8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019200:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019244:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019288:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+----------------------------------------
+### Results for File: **libFLAC.so.12**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x00000284:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000002d0:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libjavascriptcoregtk-6.0.so.1.1.10 (objdump timed out).
+### Results for File: **liblpcnetfreedv.so.0.5**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x000006ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000e20:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libgfortran.so.5.0.0**
+Total FDEs found with custom CFA rules: 22
+
+  FDE at 0x0000c9f8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ca54:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cbf8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cc58:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cd60:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cdc0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ce20:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cf30:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cf90:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000cfec:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d370:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d3d0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d430:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d538:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d598:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000d5f8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000dbf8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000dc58:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000dcb8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000ddc8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000de28:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000de88:
+    Unique Custom Rules: **r13+0**
+----------------------------------------
+### Results for File: **libQt5XcbQpa.so.5**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x00000638:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00007800:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libzimg.so.2.0.0**
+Total FDEs found with custom CFA rules: 18
+
+  FDE at 0x00004c64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005384:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000541c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005468:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000054b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005500:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000554c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005598:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005828:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005890:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006988:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000073d8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000074c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000088ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000089b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008e64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008f68:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libavfilter.so.9.12.100**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00015c70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018724:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002c6d8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002d46c:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libSvtAv1Dec.so.0**
+Total FDEs found with custom CFA rules: 60
+
+  FDE at 0x000002dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000531c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000534c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000537c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000053dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005424:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005454:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005484:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000054b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000054e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005514:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005544:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000558c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000055cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000560c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005654:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005684:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000056b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000056e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008dac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008f88:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000090ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000094f8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000958c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00009bc8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009bf8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009c34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009c74:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009cc0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a030:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a060:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000a0a4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000abfc:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000aed4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000af34:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000b334:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000b674:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000b6d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bdc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000be10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000be80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000becc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bfe8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c02c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c074:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c0bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c104:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c14c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c190:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c1d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c21c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c264:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c2ac:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c308:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c364:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c3c0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000c508:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c8ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c938:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libQt6Quick.so.6 (objdump timed out).
+WARNING: Skipping libclang.so.17.0.6 (objdump timed out).
+### Results for File: **libcrypto.so**
+Total FDEs found with custom CFA rules: 88
+
+  FDE at 0x00000080:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000000ec:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000001c4:
+    Unique Custom Rules: **r15+64, rsi+64**
+  FDE at 0x0004f828:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f86c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f8b0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f8f4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004f94c:
+    Unique Custom Rules: **rsi+56**
+  FDE at 0x0004f998:
+    Unique Custom Rules: **rsi+56**
+  FDE at 0x0004fa0c:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fa50:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fa94:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0004fc64:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fc84:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fca4:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fcc4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fd40:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fdbc:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0004fe4c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fe98:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004fee4:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0004ff30:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050118:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x0005015c:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x000501b8:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x000501fc:
+    Unique Custom Rules: **rax+56**
+  FDE at 0x00050258:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050298:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050314:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00050330:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050378:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000503c0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050408:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050450:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00050578:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000505c4:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050610:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050654:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000506a0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000506ec:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050744:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000507b0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00050808:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000509ac:
+    Unique Custom Rules: **rcx+56**
+  FDE at 0x00050a00:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050a48:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a64:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a80:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050a9c:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ab8:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ad4:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050af0:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050b0c:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050b28:
+    Unique Custom Rules: **r9+8**
+  FDE at 0x00050ef0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050f38:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00050f8c:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00051024:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x0005106c:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x000510c0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x0005154c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051598:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000515d0:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00051610:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x000517e0:
+    Unique Custom Rules: **r11+96**
+  FDE at 0x00051890:
+    Unique Custom Rules: **r11+16**
+  FDE at 0x000518ac:
+    Unique Custom Rules: **r11+16**
+  FDE at 0x00051ae0:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b10:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b34:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051b64:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051ba8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051bfc:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c30:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c64:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00051c98:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051cc8:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051cec:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051d1c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00051d60:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051dbc:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051e00:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051e44:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x00051ee0:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051f28:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051f6c:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00051fb0:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x00052050:
+    Unique Custom Rules: **rax+8, rsi+8**
+----------------------------------------
+WARNING: Skipping libjavascriptcoregtk-4.1.so.0 (objdump timed out).
+### Results for File: **libaom.so.3.7.0**
+Total FDEs found with custom CFA rules: 50
+
+  FDE at 0x00011c10:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00011c84:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00012098:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000126a0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000126fc:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00012868:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000128c4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000129b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000167c4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000167f0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001681c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016848:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016874:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000168a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000168cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000168f8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016928:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016968:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001699c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000169dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016a1c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016a50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016a7c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016aa8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016ad4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017970:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000179a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000179d0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00017a60:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00018614:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00021db0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00023f84:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024b10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00025460:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029a60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029d14:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029d60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029e50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00029e9c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002a164:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002a1b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002a22c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0002ad84:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002af28:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0002b08c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0002b124:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002b6cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002c220:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002c864:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002cbb8:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libQt6Gui.so.6 (objdump timed out).
+WARNING: Skipping libjavascriptcoregtk-6.0.so.1 (objdump timed out).
+WARNING: Skipping libQt6Widgets.so.6 (objdump timed out).
+WARNING: Skipping libLLVM-17.0.6.so (objdump timed out).
+### Results for File: **libmvec.so**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00005830:
+    Unique Custom Rules: **r13+32**
+  FDE at 0x000061d8:
+    Unique Custom Rules: **r13+32**
+  FDE at 0x000068c8:
+    Unique Custom Rules: **r13+32**
+  FDE at 0x00007400:
+    Unique Custom Rules: **r13+32**
+----------------------------------------
+### Results for File: **libavcodec.so.60.31.102**
+Total FDEs found with custom CFA rules: 10
+
+  FDE at 0x000032d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003320:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008f18:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00008fbc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00009280:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000092cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002143c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00035514:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00047818:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00048a40:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libwebkit2gtk-4.1.so.0 (objdump timed out).
+WARNING: Skipping libwebkit2gtk-4.1.so.0.12.4 (objdump timed out).
+### Results for File: **libopenblaso.so.0**
+Total FDEs found with custom CFA rules: 132
+
+  FDE at 0x000574dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005754c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005841c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000584fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000585dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000586bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005a74c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005a864:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005a96c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005aa74:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005ab28:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005ab78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005d8bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005d92c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005e77c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005e8ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005e9dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005eb0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00060ccc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00060dfc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00060f2c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006105c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00061128:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00061178:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00064d9c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00064ecc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00064ffc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006512c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000672ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006741c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006754c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006767c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00067748:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00067798:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006a7ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006a81c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006b6cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006b7fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006b92c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006ba5c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006dc1c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006dd4c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006de7c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006dfac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006e078:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006e0c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000710dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007114c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00071ffc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007212c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007225c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007238c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007454c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007467c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000747ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000748dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000749a8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000749f8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076a48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076dfc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076eac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076f5c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007700c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00077e60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00077ecc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00077f3c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000780d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007814c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000781c4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007823c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00079054:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00079184:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000792b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000793e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b61c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b74c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b87c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b9ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007ba78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007bac8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007db78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007def4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007dfa4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007e054:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007e104:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007eee8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007ef54:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007efc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f12c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f1a4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f21c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f294:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000800ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000801dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008030c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008043c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082674:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000827a4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000828d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082a04:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082ad0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082b20:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00084bcc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00084c78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00085dd4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00085e80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00085eec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00086f3c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008706c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008719c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000872cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008942c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008955c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008968c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000897bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00089888:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000898d8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008b894:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008b940:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008ca9c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008cb48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008cbb4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008dc04:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008dd34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008de64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008df94:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000900f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090224:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090354:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090484:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090550:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000905a0:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libgcc_s-13-20231205.so.1**
+Total FDEs found with custom CFA rules: 4
+
+  FDE at 0x00001a7c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001ae8:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001b2c:
+    Unique Custom Rules: **rcx+8**
+  FDE at 0x00001b90:
+    Unique Custom Rules: **rcx+8**
+----------------------------------------
+### Results for File: **libjxl.so.0.8**
+Total FDEs found with custom CFA rules: 159
+
+  FDE at 0x00000448:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000004bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000508:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000584:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000005cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000618:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000664:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000a58:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000aa0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000aec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000bf8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000c70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00000f98:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000100c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00001080:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000010f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002c78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002cf4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002d70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00002dec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003d30:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003d78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003dc0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00003e08:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004074:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000040bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004104:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000414c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000429c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004748:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000047c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004840:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004884:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000049d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004a50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004ac8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004c14:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00004c94:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005bec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005c48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005cb8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005cfc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005d84:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005dc8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005e50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00005e94:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006064:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000060b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000060fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000660c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006658:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00006fdc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000754c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00007594:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00007688:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000087e0:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x000088d8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00008970:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x00008a68:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000aeec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000af2c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000af6c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000bfc0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c16c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c1b8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000c200:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000ef48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f020:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f06c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f1b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00014174:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00014234:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00014280:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000142cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016c70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016cb8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00016d00:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017dd0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017eac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017ef4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00017fdc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018028:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018070:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000180ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018138:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018180:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000181fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00018248:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000182c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00019708:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001975c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000197b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001980c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a274:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a2c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a308:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a398:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001a960:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001aaec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001abc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ac0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ac54:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001aca0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001acec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ad34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b0f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b164:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b1b0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001b69c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bbcc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bc18:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001bc64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001c698:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001c72c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001c7c0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001cdd4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e090:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e13c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001e1e8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fa34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fa80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fac8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fb10:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fb58:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fba0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fc50:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fc98:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fce0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fd28:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fd70:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fdb8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fe00:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fe48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fe90:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001fed8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ff20:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0001ff68:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00020018:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00020094:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000211ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00021238:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00021284:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000212d0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00022548:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00022574:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000225a0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000225cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024c88:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024cd0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024d18:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024d60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024da8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024df0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024e38:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024e80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00024ec8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0002501c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00025064:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000250ac:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **libvapoursynth.so.63.0.0**
+Total FDEs found with custom CFA rules: 7
+
+  FDE at 0x00001dbc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0000f8a4:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000f900:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000f95c:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000f9b8:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000fa14:
+    Unique Custom Rules: **r13+0**
+  FDE at 0x0000fa70:
+    Unique Custom Rules: **r13+0**
+----------------------------------------
+### Results for File: **libmfx-gen.so.1.2**
+Total FDEs found with custom CFA rules: 1
+
+  FDE at 0x0003b7f8:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+### Results for File: **ld-linux-x86-64.so.2**
+Total FDEs found with custom CFA rules: 7
+
+  FDE at 0x00001390:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000013c4:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x000013f8:
+    Unique Custom Rules: **rbx+56**
+  FDE at 0x0000142c:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00001450:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x00001474:
+    Unique Custom Rules: **rbx+32**
+  FDE at 0x000027f8:
+    Unique Custom Rules: **rdi+0**
+----------------------------------------
+### Results for File: **libopenblaso-r0.3.21.so**
+Total FDEs found with custom CFA rules: 132
+
+  FDE at 0x000574dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005754c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005841c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000584fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000585dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000586bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005a74c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005a864:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005a96c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005aa74:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005ab28:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005ab78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005d8bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005d92c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005e77c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005e8ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005e9dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0005eb0c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00060ccc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00060dfc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00060f2c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006105c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00061128:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00061178:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00064d9c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00064ecc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00064ffc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006512c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000672ec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006741c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006754c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006767c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00067748:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00067798:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006a7ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006a81c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006b6cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006b7fc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006b92c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006ba5c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006dc1c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006dd4c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006de7c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006dfac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006e078:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0006e0c8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000710dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007114c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00071ffc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007212c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007225c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007238c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007454c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007467c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000747ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000748dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000749a8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000749f8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076a48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076dfc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076eac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00076f5c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007700c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00077e60:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00077ecc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00077f3c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000780d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007814c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000781c4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007823c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00079054:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00079184:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000792b4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000793e4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b61c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b74c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b87c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007b9ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007ba78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007bac8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007db78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007def4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007dfa4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007e054:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007e104:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007eee8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007ef54:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007efc4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f12c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f1a4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f21c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0007f294:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000800ac:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000801dc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008030c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008043c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082674:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000827a4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000828d4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082a04:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082ad0:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00082b20:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00084bcc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00084c78:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00085dd4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00085e80:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00085eec:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00086f3c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008706c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008719c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000872cc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008942c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008955c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008968c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000897bc:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00089888:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000898d8:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008b894:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008b940:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008ca9c:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008cb48:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008cbb4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008dc04:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008dd34:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008de64:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x0008df94:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000900f4:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090224:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090354:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090484:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00090550:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x000905a0:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libgccjit.so.0.0.1 (objdump timed out).
+WARNING: Skipping librbd.so.1 (objdump timed out).
+### Results for File: **libgnutls.so.30**
+Total FDEs found with custom CFA rules: 22
+
+  FDE at 0x0001828c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x000182d8:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x0001843c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001845c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001847c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x0001849c:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00018518:
+    Unique Custom Rules: **rax+8**
+  FDE at 0x00018594:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x000185e8:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00018628:
+    Unique Custom Rules: **rsi+8**
+  FDE at 0x00018f48:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00018f9c:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00018fd0:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00019004:
+    Unique Custom Rules: **r11+8**
+  FDE at 0x00019038:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019094:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x000190d8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x0001911c:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+  FDE at 0x000191b8:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019200:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019244:
+    Unique Custom Rules: **rax+8, rsi+8**
+  FDE at 0x00019288:
+    Unique Custom Rules: **rax+8, rdi+8, rsi+8**
+----------------------------------------
+WARNING: Skipping libmozjs-115.so.0 (objdump timed out).
+### Results for File: **libQt5XcbQpa.so.5.15.10**
+Total FDEs found with custom CFA rules: 2
+
+  FDE at 0x00000638:
+    Unique Custom Rules: **r10+0**
+  FDE at 0x00007800:
+    Unique Custom Rules: **r10+0**
+----------------------------------------
+WARNING: Skipping libQt6Quick.so.6.5.2 (objdump timed out).
+
+## Analysis Complete.
+**Total files analyzed successfully**: 3022
+**Total files with custom CFA rules**: 62

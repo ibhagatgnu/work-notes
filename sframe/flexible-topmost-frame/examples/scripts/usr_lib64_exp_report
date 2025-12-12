@@ -1,0 +1,1504 @@
+## Analyzing Directory: /usr/lib64/
+
+### Results for File: **libSvtAv1Enc.so.1**
+Total non-.plt FDEs found with 'exp' CFA rules: 44
+
+  FDE at 0x000000000004d980:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004da60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004db50:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004dd20:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004de00:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004dee0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e0b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e250:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e420:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e500:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000baa10:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d35f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d5c00:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d8ef0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d9240:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e0480:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f2940:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000101f90:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000114300:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011b2b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011e980:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011eda0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011f3f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011f900:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011fec0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000121210:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000122160:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000127730:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013c770:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001592f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000017a5d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002dcae0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002fd060:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003014e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000035e8c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000362f50:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000365150:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000037e840:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003a4c60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003ba3b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003c0450:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003d4d40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003e0840:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003e0ef0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libbabl-0.1.so.0.207.1**
+Total non-.plt FDEs found with 'exp' CFA rules: 3
+
+  FDE at 0x000000000005dc60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000005e630:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000005f8b0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libmozjs-115.so.0.0.0 (objdump timed out).
+### Results for File: **libaom.so.3**
+Total non-.plt FDEs found with 'exp' CFA rules: 26
+
+  FDE at 0x0000000000106d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000109510:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000109e60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013eca0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013ed80:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013ee60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013ef40:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f110:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f310:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f510:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f5f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001465d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001eb310:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000248fc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002fca10:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000306660:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000030ca10:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000318340:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000033ba20:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000342cf0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003445d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000344bd0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000353c80:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000037f4e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000168b2:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000039c9d0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libclang-cpp.so.17 (objdump timed out).
+### Results for File: **libQt5XcbQpa.so.5.15**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000044040:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libwebkitgtk-6.0.so.4.4.4 (objdump timed out).
+WARNING: Skipping libwebkitgtk-6.0.so.4 (objdump timed out).
+### Results for File: **libc.so.6**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000003e99f:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libavfilter.so.9**
+Total non-.plt FDEs found with 'exp' CFA rules: 3
+
+  FDE at 0x00000000001daad0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000309f60:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000319f40:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libSvtAv1Enc.so.1.4.1**
+Total non-.plt FDEs found with 'exp' CFA rules: 44
+
+  FDE at 0x000000000004d980:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004da60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004db50:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004dd20:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004de00:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004dee0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e0b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e250:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e420:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000004e500:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000baa10:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d35f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d5c00:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d8ef0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d9240:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e0480:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f2940:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000101f90:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000114300:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011b2b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011e980:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011eda0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011f3f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011f900:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011fec0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000121210:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000122160:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000127730:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013c770:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001592f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000017a5d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002dcae0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002fd060:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003014e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000035e8c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000362f50:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000365150:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000037e840:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003a4c60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003ba3b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003c0450:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003d4d40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003e0840:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003e0ef0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libSPIRV-Tools-opt.so (objdump timed out).
+### Results for File: **librhash.so.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x000000000000fdc0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libvpx.so.8.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x00000000000295c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000002b160:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libLLVM-17.so (objdump timed out).
+WARNING: Skipping libQt6Gui.so.6.5.2 (objdump timed out).
+### Results for File: **libvpx.so.8.0.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x00000000000295c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000002b160:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libQt6Core.so.6.5.2**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000106420:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libSvtAv1Dec.so.0.8.7**
+Total non-.plt FDEs found with 'exp' CFA rules: 30
+
+  FDE at 0x00000000000103b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000069f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a000:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a1e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a2c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a3a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a480:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a6b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a8e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a9c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d5f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000dd1a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e8650:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000ea230:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000ee250:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000ee5a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f5220:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000106160:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000114550:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000012a590:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000012d130:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000130d70:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000131190:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001317e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001321e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001327a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000133af0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000134a40:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013a010:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000014f200:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libcrypto.so.3.1.4**
+Total non-.plt FDEs found with 'exp' CFA rules: 17
+
+  FDE at 0x00000000000af620:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002a55c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002a5d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002aa900:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bd980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002be0e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bece0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bf5c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002c3700:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003a9b60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b0a00:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b3aa0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b8980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003ba180:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003bbf40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003beb80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003c0cc0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libgnutls.so.30.37.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 4
+
+  FDE at 0x0000000000154140:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015b140:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015d480:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015fc00:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libQt6Core.so.6**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000106420:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libgegl-0.4.so.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x00000000000a0910:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000a14d0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libavcodec.so.60**
+Total non-.plt FDEs found with 'exp' CFA rules: 6
+
+  FDE at 0x000000000013f710:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001c8920:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001cbe20:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000507b20:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000005dcb40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000005fbec0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libmfx-gen.so.1.2.8**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000002df220:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libvapoursynth.so.63**
+Total non-.plt FDEs found with 'exp' CFA rules: 4
+
+  FDE at 0x0000000000009c42:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f8b90:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f9d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000faf80:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libjxl.so.0.8.2**
+Total non-.plt FDEs found with 'exp' CFA rules: 80
+
+  FDE at 0x0000000000021480:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000022560:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000237d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000028c70:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000002b6f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000002c150:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000081840:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000083f40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000887e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000089120:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000008d170:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000009ce40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000aa120:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000acee0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bae40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bbbf0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bc640:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bd390:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000c08c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000c3fc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e78a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001159a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011ba50:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011eab0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000124990:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000156140:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000156390:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001565e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000016eef0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000179160:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001795f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001ceb50:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001d5460:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001ddd40:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000220b70:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000222350:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000223f90:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000024f7d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002509c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000251560:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002520c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000252540:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000258ea0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000259480:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000259a30:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000259fe0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000025d9a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000025e6f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000260710:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000260e80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000261300:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000265430:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000265d30:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000026fa60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000027e740:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000280580:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002823e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000286050:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002b23f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002db3d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002e25e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002e9630:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002f0db0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002f6f50:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002fbda0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000300690:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000303980:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000306a50:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000030b1f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000030e210:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000325c00:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000326ae0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000331de0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000331fa0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000361f60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003622a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000362560:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003627c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000362b00:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000363f80:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libQt6XcbQpa.so.6**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x0000000000039a60:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000087d40:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping librbd.so.1.18.0 (objdump timed out).
+### Results for File: **libFLAC.so.12.1.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000010fb0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libcrypto.so.3**
+Total non-.plt FDEs found with 'exp' CFA rules: 17
+
+  FDE at 0x00000000000af620:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002a55c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002a5d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002aa900:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bd980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002be0e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bece0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bf5c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002c3700:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003a9b60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b0a00:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b3aa0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b8980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003ba180:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003bbf40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003beb80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003c0cc0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libgegl-0.4.so.0.447.1**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x00000000000a0910:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000a14d0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libbabl-0.1.so.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 3
+
+  FDE at 0x000000000005dc60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000005e630:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000005f8b0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libQt6XcbQpa.so.6.5.2**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x0000000000039a60:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000087d40:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libQt6Qml.so.6 (objdump timed out).
+WARNING: Skipping libgccjit.so.0 (objdump timed out).
+WARNING: Skipping libQt6Qml.so.6.5.2 (objdump timed out).
+WARNING: Skipping libjavascriptcoregtk-4.1.so.0.4.10 (objdump timed out).
+### Results for File: **libgfortran.so.5**
+Total non-.plt FDEs found with 'exp' CFA rules: 11
+
+  FDE at 0x00000000000bdca0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000cda90:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000dde10:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e67c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f2a40:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000010f920:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011fde0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001292a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000014f700:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000166590:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000172d40:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libvpx.so.8**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x00000000000295c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000002b160:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libQt6Widgets.so.6.5.2 (objdump timed out).
+WARNING: Skipping libclang.so.17 (objdump timed out).
+### Results for File: **libzimg.so.2**
+Total non-.plt FDEs found with 'exp' CFA rules: 6
+
+  FDE at 0x0000000000050c60:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000053770:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000056230:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000058d10:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000007a740:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000009ff90:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libgnutls.so**
+Total non-.plt FDEs found with 'exp' CFA rules: 4
+
+  FDE at 0x0000000000154140:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015b140:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015d480:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015fc00:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libFLAC.so.12**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000010fb0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libjavascriptcoregtk-6.0.so.1.1.10 (objdump timed out).
+### Results for File: **liblpcnetfreedv.so.0.5**
+Total non-.plt FDEs found with 'exp' CFA rules: 2
+
+  FDE at 0x0000000000008900:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000000e660:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libgfortran.so.5.0.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 11
+
+  FDE at 0x00000000000bdca0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000cda90:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000dde10:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e67c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f2a40:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000010f920:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011fde0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001292a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000014f700:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000166590:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000172d40:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libQt5XcbQpa.so.5**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000044040:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libzimg.so.2.0.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 6
+
+  FDE at 0x0000000000050c60:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000053770:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000056230:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000058d10:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000007a740:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000009ff90:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libavfilter.so.9.12.100**
+Total non-.plt FDEs found with 'exp' CFA rules: 3
+
+  FDE at 0x00000000001daad0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000309f60:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000319f40:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libSvtAv1Dec.so.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 30
+
+  FDE at 0x00000000000103b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000069f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a000:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a1e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a2c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a3a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a480:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a6b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a8e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000006a9c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000d5f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000dd1a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e8650:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000ea230:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000ee250:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000ee5a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f5220:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000106160:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000114550:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000012a590:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000012d130:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000130d70:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000131190:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001317e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001321e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001327a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000133af0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000134a40:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013a010:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000014f200:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libQt6Quick.so.6 (objdump timed out).
+WARNING: Skipping libclang.so.17.0.6 (objdump timed out).
+### Results for File: **libcrypto.so**
+Total non-.plt FDEs found with 'exp' CFA rules: 17
+
+  FDE at 0x00000000000af620:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002a55c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002a5d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002aa900:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bd980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002be0e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bece0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002bf5c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002c3700:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003a9b60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b0a00:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b3aa0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003b8980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003ba180:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003bbf40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003beb80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003c0cc0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libjavascriptcoregtk-4.1.so.0 (objdump timed out).
+### Results for File: **libaom.so.3.7.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 26
+
+  FDE at 0x0000000000106d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000109510:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000109e60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013eca0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013ed80:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013ee60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013ef40:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f110:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f310:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f510:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000013f5f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001465d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001eb310:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000248fc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002fca10:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000306660:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000030ca10:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000318340:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000033ba20:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000342cf0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003445d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000344bd0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000353c80:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000037f4e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000168b2:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000039c9d0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libQt6Gui.so.6 (objdump timed out).
+WARNING: Skipping libjavascriptcoregtk-6.0.so.1 (objdump timed out).
+WARNING: Skipping libQt6Widgets.so.6 (objdump timed out).
+WARNING: Skipping libLLVM-17.0.6.so (objdump timed out).
+### Results for File: **libavcodec.so.60.31.102**
+Total non-.plt FDEs found with 'exp' CFA rules: 6
+
+  FDE at 0x000000000013f710:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001c8920:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001cbe20:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000507b20:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000005dcb40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000005fbec0:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libwebkit2gtk-4.1.so.0 (objdump timed out).
+WARNING: Skipping libwebkit2gtk-4.1.so.0.12.4 (objdump timed out).
+### Results for File: **libopenblaso.so.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 61
+
+  FDE at 0x000000000110c850:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000110d050:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000113fb80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000011439e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000011b1f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000125b0d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000125fa00:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000012ac9d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000012b0f60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000012b7b80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001364c30:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001369550:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000013baaf0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000013bf020:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000013c3f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014704c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001474df0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014c1bc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014c6150:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014ccd80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001545370:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001545b90:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001577430:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000157bd50:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000015cd2f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000015d1820:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000015d6720:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001620210:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001625dc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000167b610:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000167fcb0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000016d84d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000016dc520:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000016e2d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001725c30:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001737550:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000173d100:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017616f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017625d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001762db0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001792810:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001796eb0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017ef6d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017f3720:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017f9f80:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000183c150:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000018b1180:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000018b1fd0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001909610:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000190d9b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000019708d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001974510:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000197a980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000019c6b50:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a3bd80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a3cbd0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a93c10:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a97fb0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001afaad0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001afe710:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001b04b80:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libjxl.so.0.8**
+Total non-.plt FDEs found with 'exp' CFA rules: 80
+
+  FDE at 0x0000000000021480:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000022560:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000237d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000028c70:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000002b6f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000002c150:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000081840:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000083f40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000887e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000089120:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000008d170:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000009ce40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000aa120:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000acee0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bae40:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bbbf0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bc640:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000bd390:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000c08c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000c3fc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000e78a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001159a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011ba50:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000011eab0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000124990:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000156140:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000156390:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001565e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000016eef0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000179160:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001795f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001ceb50:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001d5460:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000001ddd40:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000220b70:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000222350:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000223f90:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000024f7d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002509c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000251560:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002520c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000252540:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000258ea0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000259480:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000259a30:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000259fe0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000025d9a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000025e6f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000260710:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000260e80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000261300:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000265430:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000265d30:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000026fa60:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000027e740:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000280580:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002823e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000286050:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002b23f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002db3d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002e25e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002e9630:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002f0db0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002f6f50:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000002fbda0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000300690:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000303980:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000306a50:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000030b1f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000030e210:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000325c00:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000326ae0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000331de0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000331fa0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000361f60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003622a0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000362560:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000003627c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000362b00:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000000363f80:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libvapoursynth.so.63.0.0**
+Total non-.plt FDEs found with 'exp' CFA rules: 4
+
+  FDE at 0x0000000000009c42:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f8b90:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000f9d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000000faf80:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libmfx-gen.so.1.2**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000002df220:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **ld-linux-x86-64.so.2**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x00000000000223af:
+    Unique Custom Rules: **exp**
+----------------------------------------
+### Results for File: **libopenblaso-r0.3.21.so**
+Total non-.plt FDEs found with 'exp' CFA rules: 61
+
+  FDE at 0x000000000110c850:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000110d050:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000113fb80:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000011439e0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000011b1f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000125b0d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000125fa00:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000012ac9d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000012b0f60:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000012b7b80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001364c30:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001369550:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000013baaf0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000013bf020:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000013c3f20:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014704c0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001474df0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014c1bc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014c6150:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000014ccd80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001545370:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001545b90:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001577430:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000157bd50:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000015cd2f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000015d1820:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000015d6720:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001620210:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001625dc0:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000167b610:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000167fcb0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000016d84d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000016dc520:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000016e2d80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001725c30:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001737550:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000173d100:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017616f0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017625d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001762db0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001792810:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001796eb0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017ef6d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017f3720:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000017f9f80:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000183c150:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000018b1180:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000018b1fd0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001909610:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000190d9b0:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000019708d0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001974510:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000197a980:
+    Unique Custom Rules: **exp**
+  FDE at 0x00000000019c6b50:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a3bd80:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a3cbd0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a93c10:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001a97fb0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001afaad0:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001afe710:
+    Unique Custom Rules: **exp**
+  FDE at 0x0000000001b04b80:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libgccjit.so.0.0.1 (objdump timed out).
+WARNING: Skipping librbd.so.1 (objdump timed out).
+### Results for File: **libgnutls.so.30**
+Total non-.plt FDEs found with 'exp' CFA rules: 4
+
+  FDE at 0x0000000000154140:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015b140:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015d480:
+    Unique Custom Rules: **exp**
+  FDE at 0x000000000015fc00:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libmozjs-115.so.0 (objdump timed out).
+### Results for File: **libQt5XcbQpa.so.5.15.10**
+Total non-.plt FDEs found with 'exp' CFA rules: 1
+
+  FDE at 0x0000000000044040:
+    Unique Custom Rules: **exp**
+----------------------------------------
+WARNING: Skipping libQt6Quick.so.6.5.2 (objdump timed out).
+
+## Analysis Complete.
+**Total files analyzed successfully**: 3022
+**Total files with non-.plt 'exp' CFA rules**: 48
