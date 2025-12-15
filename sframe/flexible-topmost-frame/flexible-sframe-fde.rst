@@ -221,6 +221,69 @@ objdump of this excerpt being as follows::
     0000000000003acc rsp+8    c-72  c-64  c-56  u     c-48  c-40  c-32  c-24  c-8
     0000000000003acd rsp+0    c-72  c-64  c-56  u     c-48  c-40  c-32  c-24  r2 (rcx)
 
+Other patterns (AMD64 - signal trampoline)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is seen for signal trampoline on AMD64::
+
+    000000000003b0c0 <__restore_rt>:
+       3b0c0:       48 c7 c0 0f 00 00 00    mov    $0xf,%rax
+       3b0c7:       0f 05                   syscall
+       3b0c9:       0f 1f 80 00 00 00 00    nopl   0x0(%rax)
+
+objdump of this trampoline being as follows::
+
+    00002770 0000000000000078 00000018 FDE cie=0000275c pc=000000000003b0bf..000000000003b0c9
+      DW_CFA_def_cfa_expression (DW_OP_breg7 (rsp): 160; DW_OP_deref)
+      DW_CFA_expression: r8 (r8) (DW_OP_breg7 (rsp): 40)
+      DW_CFA_expression: r9 (r9) (DW_OP_breg7 (rsp): 48)
+      DW_CFA_expression: r10 (r10) (DW_OP_breg7 (rsp): 56)
+      DW_CFA_expression: r11 (r11) (DW_OP_breg7 (rsp): 64)
+      DW_CFA_expression: r12 (r12) (DW_OP_breg7 (rsp): 72)
+      DW_CFA_expression: r13 (r13) (DW_OP_breg7 (rsp): 80)
+      DW_CFA_expression: r14 (r14) (DW_OP_breg7 (rsp): 88)
+      DW_CFA_expression: r15 (r15) (DW_OP_breg7 (rsp): 96)
+      DW_CFA_expression: r5 (rdi) (DW_OP_breg7 (rsp): 104)
+      DW_CFA_expression: r4 (rsi) (DW_OP_breg7 (rsp): 112)
+      DW_CFA_expression: r6 (rbp) (DW_OP_breg7 (rsp): 120)
+      DW_CFA_expression: r3 (rbx) (DW_OP_breg7 (rsp): 128)
+      DW_CFA_expression: r1 (rdx) (DW_OP_breg7 (rsp): 136)
+      DW_CFA_expression: r0 (rax) (DW_OP_breg7 (rsp): 144)
+      DW_CFA_expression: r2 (rcx) (DW_OP_breg7 (rsp): 152)
+      DW_CFA_expression: r7 (rsp) (DW_OP_breg7 (rsp): 160)
+      DW_CFA_expression: r16 (rip) (DW_OP_breg7 (rsp): 168)
+      DW_CFA_nop
+      DW_CFA_nop
+
+IOW, the stack trace information has patterns like:
+
+  - CFA = \*(rsp+160)
+  - rbp = \*(rsp+120)
+  - rsp = \*(rsp+160)
+  - RA = \*(rsp+168)
+
+Note that in SFrame, we cannot explicitly encode information to restore rsp.
+Restoration of rsp is based on implicit rules.  But IIUC, in the above rules,
+the implicit rule of CFA = sp at __restore_rt boundary is not violated.  TBD -
+Confirm.
+
+As a side note, for AArch64, following can be noted in
+arch/arm64/kernel/vdso/sigreturn.S::
+
+    /*
+     * Tell the unwinder where to locate the frame record linking back to the
+     * interrupted context. We don't provide unwind info for registers other than
+     * the frame pointer and the link register here; in practice, this is likely to
+     * be insufficient for unwinding in C/C++ based runtimes, especially without a
+     * means to restore the stack pointer. Thankfully, unwinders and debuggers
+     * already have baked-in strategies for attempting to unwind out of signals.
+     */
+    //      .cfi_def_cfa    x29, 0
+    //      .cfi_offset     x29, 0 * 8
+    //      .cfi_offset     x30, 1 * 8
+
+While the above can be represented in SFrame, restoration of SP to a
+non-implicit rule is not.
+
 .. _s390x-ra-in-reg-offset:
 
 Other patterns (s390x - non-SP/FP CFA)
