@@ -221,6 +221,8 @@ objdump of this excerpt being as follows::
     0000000000003acc rsp+8    c-72  c-64  c-56  u     c-48  c-40  c-32  c-24  c-8
     0000000000003acd rsp+0    c-72  c-64  c-56  u     c-48  c-40  c-32  c-24  r2 (rcx)
 
+The pattern RA=REG is also seen in the __longjmp and its variants on s390x.
+
 Other patterns (AMD64 - signal trampoline)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Following is seen for signal trampoline on AMD64::
@@ -496,15 +498,6 @@ present.  The interpretation of the two offsets is as follows:
 
 reg_p = 1 indicates a register, reg_p = 0 indicates CFA.
 
-**Q1: Can register 0 be used for CFA/FP/RA tracking in FDE type SFRAME_FDE_TYPE_FLEX_TOPMOST_FRAME?**
-Yes. Use reg = 0 with reg_p = 1.
-
-**NB** We use 5 bits for encoding register number regnum on AMD64 in the above
-suggested encoding.  An ABI may define the number of bits to encode the DWARF
-register numbers.  If anything more than 5 bits, this will mean the minimum
-size of offset1 then is 16bits.  This then means all SFrame FRE offsets of that
-function will need to be a minimum of 16 bits..
-
 The offsets are in the usual order:  CFA, RA, FP if present.
 
 For example, for FP/RA tracking,
@@ -545,6 +538,29 @@ Expected usage of this FDE type is quite low (DRAP on x86_64).
 
 Taking all the currently supported ABIs into perspective here: The expected
 usage of this FDE type is expected to be minimal.
+
+**Q1: Can register 0 be used for CFA/FP/RA tracking in FDE type SFRAME_FDE_TYPE_FLEX_TOPMOST_FRAME?**
+Yes. Use reg = 0 with reg_p = 1.  Currently, the only restriction with the
+suggested encoding scheme is that for RA, the rule RA = CFA + offset cannot be
+encoded, i.e., cfi_val_offset semantics.  NB: RA=CFA+offset is distinct from
+RA=*(CFA+offset).  The former should not be needed for any ABI, and the latter
+is representable.
+
+Same restrictions apply for FP, which may see FP padding if for some ABI SP
+tracking is enabled.
+
+**Q2: How can .cfi_val_offset like semantics be represented in SFrame using flexible FDE type?**
+There are some unused bits that could be used.  See some discussion `here
+<https://inbox.sourceware.org/binutils/20260107084228.2213703-1-indu.bhagat@oracle.com/T/#meb03b83d861e2499687580747915e25b6caf4e14>`_
+.  ATM, GAS skips generating SFrame FDEs when it sees .cfi_val_offset.  The
+occurence of .cfi_val_offset for CFA, FP, and RA is either impossible or low.
+
+**Q3: Is there a limit to the width of field in which DWARF register numbers are stored?**
+We do not define the number of bits used to encode the register number regnum
+on the supported ABIs for flex FDE (AMD64, s390x).  If anything more than 5
+bits, this will mean the minimum size of offset1 then is 16bits.  This then
+means all SFrame FRE offsets of that function will need to be a minimum of 16
+bits..
 
 Implications of new FDE type for stack tracers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
