@@ -1,0 +1,54 @@
+ .text
+.globl __longjmp; .type __longjmp,@function; .align 1<<4; __longjmp: .cfi_startproc; ;
+
+ # following is at PC 3ae60
+ mov (6*8)(%rdi),%r8
+ mov (1*8)(%rdi),%r9
+ mov (7*8)(%rdi),%rdx
+
+ # PTR_DEMANGLE r8, r9, rdx for rsp, rbp, rip respectively
+ ror $2*8 +1, %r8; xor %fs:48, %r8
+ ror $2*8 +1, %r9; xor %fs:48, %r9
+ ror $2*8 +1, %rdx; xor %fs:48, %rdx
+
+  # CFA=JB
+ .cfi_def_cfa %rdi, 0
+  # SP=r8 
+ .cfi_register %rsp, %r8
+ .cfi_register %rbp, %r9
+ .cfi_register %rip, %rdx
+ .cfi_offset %rbx, 0*8
+ .cfi_offset %r12, 2*8
+ .cfi_offset %r13, 3*8
+ .cfi_offset %r14, 4*8
+ .cfi_offset %r15, 5*8
+# following is at PC 3ae93
+ movq (0*8)(%rdi),%rbx
+ movq (2*8)(%rdi),%r12
+ movq (3*8)(%rdi),%r13
+ movq (4*8)(%rdi),%r14
+ movq (5*8)(%rdi),%r15
+
+ mov %esi, %eax
+ mov %r8,%rsp
+ movq %r9,%rbp
+
+ jmpq *%rdx
+.cfi_endproc; .size __longjmp,.-__longjmp;
+
+00002664 0000000000000028 00002668 FDE cie=00000000 pc=000000000003ae60..000000000003aeb0
+   LOC           CFA      rbx   rbp   rsp   r12   r13   r14   r15   ra    
+000000000003ae60 rsp+8    u     u     u     u     u     u     u     c-8   
+000000000003ae93 rdi+0    c+0   r9 (r9) r8 (r8) c+16  c+24  c+32  c+40  r1 (rdx) 
+
+#define JB_RBX  0
+#define JB_RBP  1
+#define JB_R12  2
+#define JB_R13  3
+#define JB_R14  4
+#define JB_R15  5
+#define JB_RSP  6
+#define JB_PC   7
+#define JB_SIZE (8*8)
+
+sysdeps/x86_64/jmpbuf-offsets.h
